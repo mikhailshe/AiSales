@@ -1,0 +1,11 @@
+.vscode
+**/__pycache__/
+main_venv/
+config.py
+pyrogram_session/
+temp/
+system_prompts/
+test.py
+files/
+*.log.*
+logs/
