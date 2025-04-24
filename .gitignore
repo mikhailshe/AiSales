@@ -9,3 +9,4 @@ test.py
 files/
 *.log.*
 logs/
+.venv
